@@ -1,6 +1,6 @@
 # block_pattern
 
-A new Flutter project.
+A new Flutter project.This project is a implementatiin of all the scenario of Block Pattern in flutter(Using RxDart,Using StreamController,Using flutter_block library).
 
 ## Getting Started
 
